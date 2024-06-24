@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(232, 236, 241);
+    margin: 0px;
+}
+
+#nav_bar ul{
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 30px;
+}
+
+#nav_bar li{
+   display: inline;
+   padding: 20px 20px 20px 20px;
+   text-align: center;
+   vertical-align: middle;
+   
+}
+
+
+
+#nav_bar{
+    padding: 30px 10px 30px 10px;
+    
+    background-color: rgb(239, 241, 243);
+    
+    box-shadow: 0px 1px 20px  rgba(0, 0, 0, 0.061);
+
+    margin: 0px;
+    
+}
+
+#nav_bar img{
+    width: 50px;
+}
+
+header{
+    
+    margin: 0px;
+}
