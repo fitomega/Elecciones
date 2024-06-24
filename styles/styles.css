@@ -44,7 +44,6 @@ body{
 @media (max-width: 1250px) {
     #nav_bar li {
         font-size: 10px;
-        color: red;
     }
 
     .swiper img{
