@@ -103,7 +103,6 @@ section{
 }
 
 .partidos .grupo {
-    height: 430px;
     display: grid;
     padding: 20px;
     justify-items: start;
