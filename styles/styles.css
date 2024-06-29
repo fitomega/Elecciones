@@ -24,7 +24,7 @@ body{
     
 }
 
-#nav_bar ul{
+.nav_bar ul{
     display: inline;
     list-style-type: none;
     margin: 0;
@@ -33,13 +33,13 @@ body{
 }
 
 
-#nav_bar li{
+.nav_bar li{
     display: inline;
     text-align: center;
     vertical-align: middle;
     
 }
-#nav_bar a{
+.nav_bar a{
     font-size: 15px; 
 
     text-decoration:none;
@@ -48,7 +48,7 @@ body{
 }
 
 @media (max-width: 1250px) {
-    #nav_bar li a{
+    .nav_bar li a{
         font-size: 10px;
     }
 
@@ -59,7 +59,7 @@ body{
 }
 
 
-#nav_bar{
+.nav_bar{
     
     padding: 20px 10px 20px 10px;
     background-color: rgb(239, 241, 243);
@@ -70,7 +70,7 @@ body{
     
 }
 
-#nav_bar img{
+.nav_bar img{
     width: 50px;
 }
 
